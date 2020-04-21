@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bubble
+  m_Shader: {fileID: -6465566751694194690, guid: 0cb910ea53ab54ed2ae328def0aa3338,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7D742DCF:
+        m_Texture: {fileID: 2800000, guid: 0f186aac55a5c49a7ad63f192a89c112, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_C577D1F3: 1
+    - Vector1_155F0743: 1.75
+    - Vector1_24D40EDB: 0
+    - Vector1_2E64A2C2: 0.1
+    - Vector1_3D2DA75D: 0.05
+    - Vector1_52F1B902: 0
+    - Vector1_77F48E11: 0
+    - Vector1_7C632D0B: 0.75
+    - Vector1_85FF29B0: 10
+    - Vector1_9D0BAAB8: 0.2
+    - Vector1_CA749EDD: 0.5
+    - Vector1_DDB19D48: 1
+    - Vector1_E750199E: 0.5
+    - Vector1_FF24B3E1: 0.5
+    m_Colors:
+    - Vector2_3062C954: {r: 1, g: 1, b: 0, a: 0}
