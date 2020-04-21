@@ -3,7 +3,7 @@
 
 Unity walkthrough tutorial on how to create a Shadergraph bubble shader. Shader has 'oily' surface distortion, coloured fresnel, and wobble properties ( amongst other properties discussed further in the video ).
 
-# INSTRUCTIONS FOR USE :
+# Instructions :
 
 Download and load the project into Unity
 
